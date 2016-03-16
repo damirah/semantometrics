@@ -1,0 +1,2 @@
+Nefarious Numbers
+We investigate the journal impact factor, focusing on the applied mathematics category. We discuss impact factor manipulation and demonstrate that the impact factor gives an inaccurate view of journal quality, which is poorly correlated with expert opinion.
